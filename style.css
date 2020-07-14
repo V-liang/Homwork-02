@@ -1,0 +1,22 @@
+header{
+    text-align: center;
+    background-color: teal;
+    margin: auto;
+}
+
+.click{
+  text-align: center;
+}
+
+.c-image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+}
+
+footer{
+    text-align: center;
+    background-color: teal;
+    margin: auto;
+}
