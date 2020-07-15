@@ -12,11 +12,19 @@ header{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: auto;
+    width: 50%;
 }
 
 footer{
     text-align: center;
     background-color: teal;
     margin: auto;
+}
+
+@media screen and (max-width: 768px) {
+  
+   .container {
+    /* box-model */
+    width: 100%;
+    }
 }
